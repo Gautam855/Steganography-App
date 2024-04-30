@@ -6,7 +6,7 @@ Steganography Application is a Python-based tool that allows users to hide secre
 
 - [Features](#Features)
 - [Prerequisites](#Prerequisites)
-- [Installation Instructions](#Installation Instructions)
+- [Installation Instructions](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Author](#Author)
@@ -29,7 +29,7 @@ Steganography Application is a Python-based tool that allows users to hide secre
   - If you prefer using an Integrated Development Environment (IDE) like VS Code, IDLE, or Jupyter, you can import the project into your IDE and run it from there.
 
 
-## Installation Instructions
+## Installation
 
 1. **Clone the Repository:**
 
