@@ -16,7 +16,7 @@ Steganography Application is a Python-based tool that allows users to hide secre
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/steganography-app.git
+    git clone https://github.com/Gautam855/Steganography-App.git
     ```
 
     Replace `your-username` with your actual GitHub username.
@@ -29,23 +29,21 @@ Steganography Application is a Python-based tool that allows users to hide secre
 
 3. **Install Python Dependencies:**
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+    Install the required dependencies using pip:
 
-    This will install all required Python packages.
+    ```bash
+    pip install Pillow==8.4.0 stegano==0.9.10 python-docx==0.8.11
+    ```
 
 4. **Run the Application:**
 
     ```bash
-    python steganography_app.py
+    python Steganography-App.py
     ```
 
     Follow the on-screen instructions to encrypt, decrypt, and manipulate images with hidden messages.
 
-## Screenshots
 
-_Insert screenshots of the application here, demonstrating its usage and features._
 
 ## Contributing
 
@@ -53,13 +51,6 @@ Contributions are welcome! Please feel free to submit bug reports, feature reque
 
 ## Authors
 
-- **Your Name** - _Initial work_ - [GitHub](https://github.com/your-username)
+- **Gautam Verma** - _Initial work_ - [GitHub](https://github.com/Gautam855)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [OpenAI](https://openai.com) for providing the language model used to generate this README.
-- Add any other acknowledgments or references here.
