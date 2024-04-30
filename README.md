@@ -2,6 +2,15 @@
 
 Steganography Application is a Python-based tool that allows users to hide secret text messages within image files using steganography techniques. It provides options for encrypting and decrypting messages, as well as saving the manipulated images and text content.
 
+## Table of Contents
+
+- [Features](#Features)
+- [Prerequisites](#Prerequisites)
+- [Installation Instructions](#Installation Instructions)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Author](#Author)
+  
 ## Features
 
 - **Image Encryption:** Hide secret text messages within image files (.png, .jpg).
@@ -74,7 +83,7 @@ Steganography Application is a Python-based tool that allows users to hide secre
 
 Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## Authors
+## Author
 
 - **Gautam Verma** - _Initial work_ - [GitHub](https://github.com/Gautam855)
 
