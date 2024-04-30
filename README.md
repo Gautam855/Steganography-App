@@ -28,9 +28,9 @@ Steganography Application is a Python-based tool that allows users to hide secre
 
 ## Prerequisites
 
-  **Python:**
+  - **Python:**
     - Make sure you have python installed on your system. You can download and install it from the [official website](https://www.python.org/downloads/).
-  **IDE (Optional):**
+  - **IDE (Optional):**
     - If you prefer using an Integrated Development Environment (IDE) like VS Code, IDLE, or Jupyter, you can import the project into your IDE and run it from there.
 
 
