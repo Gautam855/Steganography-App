@@ -41,8 +41,14 @@ Steganography Application is a Python-based tool that allows users to hide secre
     Install the required dependencies using pip:
 
     ```bash
-    pip install Pillow==8.4.0 stegano==0.9.10 python-docx==0.8.11
+    pip install Pillow
     ```
+     ```bash
+    pip install stegano
+    ```
+      ```bash
+    pip install python-docx
+      ```
 
 4. **Run the Application:**
 
