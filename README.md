@@ -19,12 +19,12 @@ Steganography Application is a Python-based tool that allows users to hide secre
     git clone https://github.com/Gautam855/Steganography-App.git
     ```
 
-    Replace `your-username` with your actual GitHub username.
+    Replace `Gautam855` with your actual GitHub username.
 
 2. **Navigate to the Cloned Repository:**
 
     ```bash
-    cd steganography-app
+    cd Steganography-App
     ```
 
 3. **Install Python Dependencies:**
@@ -38,7 +38,7 @@ Steganography Application is a Python-based tool that allows users to hide secre
 4. **Run the Application:**
 
     ```bash
-    python Steganography-App.py
+    python SteganoApp.py
     ```
 
     Follow the on-screen instructions to encrypt, decrypt, and manipulate images with hidden messages.
