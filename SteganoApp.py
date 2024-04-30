@@ -308,7 +308,7 @@ if __name__ == "__main__":
                  "Version 1.0\n\n"
                  "This application allows you to hide a secret text message within an image using steganography. "
                  "It provides options for encrypting and decrypting messages, as well as saving the manipulated images and text content.\n\n"
-                 "Developed by G.N.D Group"))
+                 "Developed by Gautam Verma"))
     Help.add_command(label="User Guide", command=show_help)
 
 # Add the 'Help' menu to the menubar
